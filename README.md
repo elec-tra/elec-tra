@@ -1,4 +1,4 @@
-### Hello! I'm Saranyan!
+### Hello! I'm Saranyan,
 
 - I'm a electronic circuit designer and embedded firmware developer.
 - Currently, I'm working on energy management techniques for Smart Bulildings
