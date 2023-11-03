@@ -1,11 +1,10 @@
 ### Hello! I'm Saranyan,
 
 - I'm a Embedded software developer
-- Currently, I'm working on following technologies,
-    - Embedded C, Embeddded Linux
-    - RISC V Processors
-    - Arm Microcontrollers
-    - Bluetooth Low Energy
+- Currently, I'm working on following topics,
     - Internet of Things
-    - WiFi, Real-Time Ethernet
-    - Deep learning
+    - IT Security
+    - Bluetooth Low Energy
+    - Digital Hardware Design
+    - Embedded Linux
+    - Machine Learning
